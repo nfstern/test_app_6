@@ -1,1 +1,1 @@
-Complete Ruby on Rails Developer
+Complete Ruby on Rails Developer by Hakon Jack(ed) Skullsmasher
